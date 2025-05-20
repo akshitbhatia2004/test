@@ -1,0 +1,40 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <header>
+        <h1>Register</h1>
+    </header>
+
+    <main class="container">
+        <section>
+            
+            <h2>Register</h2>
+                <form method="post">
+                    {% csrf_token %}
+                    {{ form.as_p }}
+                    <button type="submit" class="btn btn-primary">Register</button>
+                </form>
+            
+            <p>Already registered? <a href="{% url 'login' %}">Login Here</a></p>
+        </section>
+    </main>
+
+    <script>
+        document.getElementById("register-form").addEventListener("submit", function(event) {
+            var password = document.querySelector("input[name='password']").value;
+            var confirmPassword = document.querySelector("input[name='confirm_password']").value;
+
+            if (password !== confirmPassword) {
+                event.preventDefault();
+                alert("Passwords do not match!");
+            }
+        });
+    </script>
+</body>

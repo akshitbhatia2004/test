@@ -1,0 +1,815 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Permission",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "update_session_auth_hash",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordChangeView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectDoesNotExist",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "CustomPasswordResetView",
+        "importPath": "app.views",
+        "description": "app.views",
+        "isExtraImport": true,
+        "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "project.app.migrations.0001_initial",
+        "description": "project.app.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Assessment',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "project.app.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "StudentAdmin",
+        "kind": 6,
+        "importPath": "project.app.admin",
+        "description": "project.app.admin",
+        "peekOfCode": "class StudentAdmin(admin.ModelAdmin):\n    list_display = (\"name\", \"username\", \"mobile\", \"dob\")  # Customize fields visible in the admin panel\n@admin.register(Evaluator)\nclass EvaluatorAdmin(admin.ModelAdmin):\n    list_display = (\"name\", \"email\", \"phone\", \"password\")  # Customize fields visible in the admin panel",
+        "detail": "project.app.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluatorAdmin",
+        "kind": 6,
+        "importPath": "project.app.admin",
+        "description": "project.app.admin",
+        "peekOfCode": "class EvaluatorAdmin(admin.ModelAdmin):\n    list_display = (\"name\", \"email\", \"phone\", \"password\")  # Customize fields visible in the admin panel",
+        "detail": "project.app.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "kind": 6,
+        "importPath": "project.app.apps",
+        "description": "project.app.apps",
+        "peekOfCode": "class AppConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'app'",
+        "detail": "project.app.apps",
+        "documentation": {}
+    },
+    {
+        "label": "StudentSignupForm",
+        "kind": 6,
+        "importPath": "project.app.forms",
+        "description": "project.app.forms",
+        "peekOfCode": "class StudentSignupForm(forms.ModelForm):\n    password = forms.CharField(widget=forms.PasswordInput)\n    confirm_password = forms.CharField(widget=forms.PasswordInput)\n    class Meta:\n        model = Student\n        fields = \"__all__\"\n    def clean(self):\n        cleaned_data = super().clean()\n        password = cleaned_data.get(\"password\")\n        confirm_password = cleaned_data.get(\"confirm_password\")",
+        "detail": "project.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluatorForm",
+        "kind": 6,
+        "importPath": "project.app.forms",
+        "description": "project.app.forms",
+        "peekOfCode": "class EvaluatorForm(forms.ModelForm):\n    password = forms.CharField(widget=forms.PasswordInput)\n    class Meta:\n        model = Evaluator\n        fields = \"__all__\"\n    def save(self, commit=True):\n        user = super().save(commit=False)\n        user.password = make_password(self.cleaned_data[\"password\"])\n        if commit:\n            user.save()",
+        "detail": "project.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ParentRegistrationForm",
+        "kind": 6,
+        "importPath": "project.app.forms",
+        "description": "project.app.forms",
+        "peekOfCode": "class ParentRegistrationForm(forms.ModelForm):\n    password = forms.CharField(widget=forms.PasswordInput)\n    class Meta:\n        model = Parent\n        fields = ['email', 'password', 'phone', 'child_name', 'child_dob']\n    def clean_email(self):\n        email = self.cleaned_data.get('email')\n        if Parent.objects.filter(email=email).exists():\n            raise forms.ValidationError(\"Email already exists.\")\n        return email",
+        "detail": "project.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ParentSignupForm",
+        "kind": 6,
+        "importPath": "project.app.forms",
+        "description": "project.app.forms",
+        "peekOfCode": "class ParentSignupForm(forms.ModelForm):\n    password = forms.CharField(widget=forms.PasswordInput)\n    class Meta:\n        model = ParentSignup\n        fields = ['parent_name', 'child_name', 'mobile', 'email', 'username', 'password']\n    def save(self, commit=True):\n        user = super().save(commit=False)\n        user.password = make_password(self.cleaned_data[\"password\"])\n        if commit:\n            user.save()",
+        "detail": "project.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ParentLoginForm",
+        "kind": 6,
+        "importPath": "project.app.forms",
+        "description": "project.app.forms",
+        "peekOfCode": "class ParentLoginForm(forms.Form):\n    username = forms.CharField(max_length=50)\n    password = forms.CharField(widget=forms.PasswordInput)\n#  Institute Signup Form\nclass InstituteSignupForm(forms.ModelForm):\n    password = forms.CharField(widget=forms.PasswordInput)\n    class Meta:\n        model = InstituteSignup\n        fields = ['name', 'email', 'username', 'password', 'phone', 'address']\n    def save(self, commit=True):",
+        "detail": "project.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "InstituteSignupForm",
+        "kind": 6,
+        "importPath": "project.app.forms",
+        "description": "project.app.forms",
+        "peekOfCode": "class InstituteSignupForm(forms.ModelForm):\n    password = forms.CharField(widget=forms.PasswordInput)\n    class Meta:\n        model = InstituteSignup\n        fields = ['name', 'email', 'username', 'password', 'phone', 'address']\n    def save(self, commit=True):\n        user = super().save(commit=False)\n        user.password = make_password(self.cleaned_data[\"password\"])\n        if commit:\n            user.save()",
+        "detail": "project.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ParentSignupManager",
+        "kind": 6,
+        "importPath": "project.app.models",
+        "description": "project.app.models",
+        "peekOfCode": "class ParentSignupManager(BaseUserManager):\n    def create_user(self, username, email, password=None, **extra_fields):\n        if not username:\n            raise ValueError(\"The Username must be set\")\n        email = self.normalize_email(email)\n        user = self.model(username=username, email=email, **extra_fields)\n        user.set_password(password)\n        user.save(using=self._db)\n        return user\n    def create_superuser(self, username, email, password=None, **extra_fields):",
+        "detail": "project.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "ParentSignup",
+        "kind": 6,
+        "importPath": "project.app.models",
+        "description": "project.app.models",
+        "peekOfCode": "class ParentSignup(AbstractBaseUser, PermissionsMixin):\n    parent_name = models.CharField(max_length=100)\n    child_name = models.CharField(max_length=100)\n    mobile = models.CharField(max_length=15, unique=True)\n    email = models.EmailField(unique=True)\n    username = models.CharField(max_length=50, unique=True)\n    is_active = models.BooleanField(default=True)\n    is_staff = models.BooleanField(default=False)\n    groups = models.ManyToManyField(\n        Group,",
+        "detail": "project.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "project.app.models",
+        "description": "project.app.models",
+        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=255)\n    father_name = models.CharField(max_length=255)\n    mother_name = models.CharField(max_length=255)\n    dob = models.DateField()\n    student_class = models.CharField(max_length=50)\n    blood_group = models.CharField(max_length=10)\n    mobile = models.CharField(max_length=10)\n    username = models.CharField(max_length=255, unique=True)\n    password = models.CharField(max_length=255)",
+        "detail": "project.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Evaluator",
+        "kind": 6,
+        "importPath": "project.app.models",
+        "description": "project.app.models",
+        "peekOfCode": "class Evaluator(models.Model):\n    name = models.CharField(max_length=255)\n    email = models.EmailField(unique=True)\n    password = models.CharField(max_length=255)\n    phone = models.CharField(max_length=15)\nclass Parent(models.Model):\n    name = models.CharField(max_length=100)\n    email = models.EmailField(unique=True)\n    password = models.CharField(max_length=255)\n    phone = models.CharField(max_length=10)",
+        "detail": "project.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Parent",
+        "kind": 6,
+        "importPath": "project.app.models",
+        "description": "project.app.models",
+        "peekOfCode": "class Parent(models.Model):\n    name = models.CharField(max_length=100)\n    email = models.EmailField(unique=True)\n    password = models.CharField(max_length=255)\n    phone = models.CharField(max_length=10)\n    child_name = models.CharField(max_length=100)\n    child_dob = models.DateField()\nclass Assessment(models.Model):\n    child_id = models.IntegerField()\n    score = models.IntegerField()",
+        "detail": "project.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Assessment",
+        "kind": 6,
+        "importPath": "project.app.models",
+        "description": "project.app.models",
+        "peekOfCode": "class Assessment(models.Model):\n    child_id = models.IntegerField()\n    score = models.IntegerField()\n    date = models.DateField(auto_now_add=True)\n    def __str__(self):\n        return f\"Assessment {self.id} - Score: {self.score}\"\nclass InstituteSignup(models.Model):\n    name = models.CharField(max_length=255)\n    email = models.EmailField(unique=True)\n    username = models.CharField(max_length=50, unique=True)",
+        "detail": "project.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "InstituteSignup",
+        "kind": 6,
+        "importPath": "project.app.models",
+        "description": "project.app.models",
+        "peekOfCode": "class InstituteSignup(models.Model):\n    name = models.CharField(max_length=255)\n    email = models.EmailField(unique=True)\n    username = models.CharField(max_length=50, unique=True)\n    password = models.CharField(max_length=100)\n    phone = models.CharField(max_length=15)\n    address = models.TextField()",
+        "detail": "project.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomPasswordResetView",
+        "kind": 6,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "class CustomPasswordResetView(PasswordResetView):\n    def form_valid(self, form):\n        email = form.cleaned_data.get(\"email\")\n        try:\n            User.objects.get(email=email)\n            return super().form_valid(form)\n        except ObjectDoesNotExist:\n            return render(self.request, \"password_reset.html\", {\"form\": form, \"error\": \"Email not found.\"})\n#  Evaluator Registration\ndef evaluator_register_view(request):",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def index(request):\n    return render(request, \"index.html\")\n# Register View\ndef register_view(request):\n    if request.method == \"POST\":\n        email = request.POST.get(\"email\")\n        password = request.POST.get(\"password\")\n        confirm_password = request.POST.get(\"confirm_password\")\n        role = request.POST.get(\"role\")\n        if password != confirm_password:",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "register_view",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def register_view(request):\n    if request.method == \"POST\":\n        email = request.POST.get(\"email\")\n        password = request.POST.get(\"password\")\n        confirm_password = request.POST.get(\"confirm_password\")\n        role = request.POST.get(\"role\")\n        if password != confirm_password:\n            return render(request, \"register.html\", {\"error\": \"Passwords do not match!\"})\n        if User.objects.filter(username=email).exists():\n            return render(request, \"register.html\", {\"error\": \"Email already exists!\"})",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "login_view",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def login_view(request):\n    if request.method == \"POST\":\n        email = request.POST.get(\"email\")\n        password = request.POST.get(\"password\")\n        user = authenticate(request, username=email, password=password)\n        if user:\n            login(request, user)\n            return redirect(\"dashboard\")\n        else:\n            return render(request, \"login.html\", {\"error_message\": \"Invalid credentials!\"})",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def logout_view(request):\n    logout(request)\n    return redirect(\"index\")\n# Signup Form for Students\ndef signup_view(request):\n    if request.method == \"POST\":\n        form = StudentSignupForm(request.POST, request.FILES)\n        if form.is_valid():\n            form.save()\n            return redirect(\"success\")",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "signup_view",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def signup_view(request):\n    if request.method == \"POST\":\n        form = StudentSignupForm(request.POST, request.FILES)\n        if form.is_valid():\n            form.save()\n            return redirect(\"success\")\n    else:\n        form = StudentSignupForm()\n    return render(request, \"signup.html\", {\"form\": form})\n#  Parent Registration",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "parent",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def parent(request):\n    if request.method == \"POST\":\n        form = ParentRegistrationForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect(\"successful\")\n    else:\n        form = ParentRegistrationForm()\n    return render(request, \"parent.html\", {\"form\": form})\n#  Parent Login View",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "parent_login",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def parent_login(request):\n    form = ParentLoginForm(request.POST or None)\n    if request.method == \"POST\" and form.is_valid():\n        username = form.cleaned_data[\"username\"]\n        password = form.cleaned_data[\"password\"]\n        user = authenticate(username=username, password=password)\n        if user:\n            login(request, user)\n            return redirect(\"dashboard\")\n        else:",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "parent_signup",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def parent_signup(request):\n    if request.method == \"POST\":\n        form = ParentSignupForm(request.POST, request.FILES)\n        if form.is_valid():\n            user = form.save(commit=False)\n            user.password = make_password(user.password)\n            user.save()\n            return redirect(\"parent_login\")\n    else:\n        form = ParentSignupForm()",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "evaluator_register_view",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def evaluator_register_view(request):\n    if request.method == \"POST\":\n        form = EvaluatorForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect(\"nextpage\")\n    else:\n        form = EvaluatorForm()\n    return render(request, \"evaluator.html\", {\"form\": form})\n#  Assessment Graph View",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "assessment_graph_view",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def assessment_graph_view(request):\n    try:\n        assessment = Assessment.objects.get(child_id=request.user.id)\n        return render(request, \"graph.html\", {\"score\": assessment.score})\n    except Assessment.DoesNotExist:\n        return render(request, \"graph.html\", {\"error_message\": \"No assessment found.\"})\n#  Password Change View\n@login_required\ndef change_password(request):\n    error_message = None",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "change_password",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def change_password(request):\n    error_message = None\n    if request.method == \"POST\":\n        old_password = request.POST.get(\"old_password\")\n        new_password = request.POST.get(\"new_password\")\n        confirm_password = request.POST.get(\"confirm_password\")\n        if not request.user.check_password(old_password):\n            error_message = \"Current password is incorrect.\"\n        elif new_password != confirm_password:\n            error_message = \"New passwords do not match.\"",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "successful",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def successful(request):\n    return render(request, \"successful.html\")\ndef nextpage(request):\n    return render(request, \"nextpage.html\")\ndef login_successful(request):\n    return render(request, \"login-successful.html\")\ndef institute_signup(request):\n    if request.method == \"POST\":\n        form = InstituteSignupForm(request.POST)\n        if form.is_valid():",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "nextpage",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def nextpage(request):\n    return render(request, \"nextpage.html\")\ndef login_successful(request):\n    return render(request, \"login-successful.html\")\ndef institute_signup(request):\n    if request.method == \"POST\":\n        form = InstituteSignupForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect(\"institute_dashboard\")",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "login_successful",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def login_successful(request):\n    return render(request, \"login-successful.html\")\ndef institute_signup(request):\n    if request.method == \"POST\":\n        form = InstituteSignupForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect(\"institute_dashboard\")\n    else:\n        form = InstituteSignupForm()",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "institute_signup",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def institute_signup(request):\n    if request.method == \"POST\":\n        form = InstituteSignupForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect(\"institute_dashboard\")\n    else:\n        form = InstituteSignupForm()\n    return render(request, \"institute-signup.html\", {\"form\": form})\ndef institute_signup_Successful(request):",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "institute_signup_Successful",
+        "kind": 2,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "def institute_signup_Successful(request):\n    return render(request, \"institute-signup-successful.html\")",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "project.app.views",
+        "description": "project.app.views",
+        "peekOfCode": "User = get_user_model()  # Custom user model\n# Home Page\ndef index(request):\n    return render(request, \"index.html\")\n# Register View\ndef register_view(request):\n    if request.method == \"POST\":\n        email = request.POST.get(\"email\")\n        password = request.POST.get(\"password\")\n        confirm_password = request.POST.get(\"confirm_password\")",
+        "detail": "project.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "project.project.asgi",
+        "description": "project.project.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "project.project.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-4p%$=%u%^(n+%ny=8x@3zvtl=6bl9safrk!5w=i%!$8tt#(lm%'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-4p%$=%u%^(n+%ny=8x@3zvtl=6bl9safrk!5w=i%!$8tt#(lm%'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app',",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app',\n]\nMIDDLEWARE = [",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'project.urls'",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "ROOT_URLCONF = 'project.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'project.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'app.CustomUser'  # Replace 'app' with your actual Django app name",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'app.CustomUser'  # Replace 'app' with your actual Django app name\nAUTH_USER_MODEL = 'auth.User'",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'app.CustomUser'  # Replace 'app' with your actual Django app name\nAUTH_USER_MODEL = 'auth.User'\nAUTH_USER_MODEL = 'app.ParentSignup'",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'app.CustomUser'  # Replace 'app' with your actual Django app name\nAUTH_USER_MODEL = 'auth.User'\nAUTH_USER_MODEL = 'app.ParentSignup'",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'app.CustomUser'  # Replace 'app' with your actual Django app name\nAUTH_USER_MODEL = 'auth.User'\nAUTH_USER_MODEL = 'app.ParentSignup'",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'app.CustomUser'  # Replace 'app' with your actual Django app name\nAUTH_USER_MODEL = 'auth.User'\nAUTH_USER_MODEL = 'app.ParentSignup'",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'auth.User'\nAUTH_USER_MODEL = 'app.ParentSignup'",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "project.project.settings",
+        "description": "project.project.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'app.ParentSignup'",
+        "detail": "project.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "project.project.urls",
+        "description": "project.project.urls",
+        "peekOfCode": "urlpatterns = [\npath('admin/', admin.site.urls),\npath(\"\", views.index , name=\"index\"),\npath('register/', views.register_view, name=\"register\"),\npath('signup/',views.signup_view, name=\"signup\"),\npath('login/',views.login_view , name=\"login\"),\npath('evaluator/', views.evaluator_register_view , name=\"evaluator\"),\npath('parent/',views.parent, name='parent'),\npath('nextpage/',views.nextpage, name=\"nextpage\"),\npath('successful/',views.successful, name =\"successful\"),",
+        "detail": "project.project.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "project.project.wsgi",
+        "description": "project.project.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "project.project.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "project.manage",
+        "description": "project.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "project.manage",
+        "documentation": {}
+    }
+]

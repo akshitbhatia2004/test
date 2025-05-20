@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Institute Signup</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <h2>Institute Signup Form</h2>
+
+    <div class="container">
+        <form id="institute-form" action="institute-signup-Successful.html" method="POST">
+            <label for="name">Institute Name:</label>
+            <input type="text" id="name" required placeholder="Enter your institute name">
+
+            <label for="email">Official Email:</label>
+            <input type="email" id="email" required placeholder="Enter your official email">
+
+            <label for="name">Username:</label>
+            <input type="text" id="name" required placeholder="Enter your Username">
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" required placeholder="Create a strong password">
+
+            <label for="phone">Contact Number:</label>
+            <input type="tel" id="phone" required placeholder="Enter contact number">
+
+            <label for="address">Address:</label>
+            <textarea id="address" required placeholder="Enter institute address"></textarea>
+          
+            <button type="submit">Register Institute</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

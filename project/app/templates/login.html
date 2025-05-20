@@ -1,0 +1,51 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - P.A.T.-C.W.C.P.</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <header>
+        <h1>Login</h1>
+    </header>
+
+    <main class="container">
+        <section>
+            {% if messages %}
+                {% for message in messages %}
+                    <p style="color: green;">{{ message }}</p>
+                {% endfor %}
+            {% endif %}
+
+            <form method="POST" id="login-form">
+                {% csrf_token %}
+                
+                <label for="username">Username:</label>
+                <input type="text" name="username" id="username" required>
+
+                <label for="password">Password:</label>
+                <input type="password" name="password" id="password" required>
+
+                <label for="role">Login As:</label>
+                <select name="role" id="role" required>
+                    <option value="parent">Parent</option>
+                    <option value="evaluator">Evaluator</option>
+                </select>
+
+                <button type="submit">Login</button>
+            </form>
+
+
+
+            <p>Don't have an account? <a href="{% url 'register' %}">Register here</a></p>
+
+            <br><br>
+
+            <button onclick="window.location.href='{% url 'change_password' %}'">Forgot Password?</button>
+        </section>
+    </main>
+</body>
+</html>

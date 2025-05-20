@@ -1,0 +1,28 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parent Signup</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <h1>Parent Signup</h1>
+
+    <div class="signup-container">
+        <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form.as_p }}  <!-- Renders the form fields -->
+            
+             {% if error %}
+                <p style="color: red;">{{ error }}</p>
+            {% endif %}
+            
+           
+            
+            <button type="submit">Signup</button>
+        </form>
+    </div>
+</body>
+</html>

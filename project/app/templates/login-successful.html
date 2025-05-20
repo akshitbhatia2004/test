@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Evaluator Successful</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <h2>Login Successful!</h2>
+    
+    <div class="container">
+        <p>Thank you for Evaluator. Your details have been submitted successfully.</p>
+        <button><a href="index.html">Go Back to Home</a></button>
+        <button><a href="{% url 'institute_signup' %}">Institute Signup</a></button>
+        
+    </div>
+</body>
+</html>

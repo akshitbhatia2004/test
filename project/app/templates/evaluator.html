@@ -1,0 +1,23 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluator Registration</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <h2>Evaluator Registration</h2>
+    <p>Your role: {{ request.session.role }}</p>
+
+    <div class="container">
+        <form method="POST">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button onclick="window.location.href='{% url 'nextpage' %}'">Continue</button>
+
+        </form>
+    </div>
+</body>
+</html>
